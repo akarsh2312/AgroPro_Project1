@@ -1,0 +1,1 @@
+ nr = df[df['Crop'] == crop_name]['N'].iloc[0]
